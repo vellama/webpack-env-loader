@@ -1,0 +1,26 @@
+{
+  "name": "webpack-env-loader",
+  "version": "0.0.1",
+  "description": "Load your app settings depending on current environment (development, test, production, .....). Can manage multiple apps that use some common settings (backoffice, www, ...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:vincent-ellama/webpack-env-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "env",
+    "settings",
+    "config",
+    "loader"
+  ],
+  "author": "Vincent ELLAMA",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "loader-utils": "^0.2.11"
+  }
+}
