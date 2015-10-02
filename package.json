@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:vincent-ellama/webpack-env-loader.git"
+    "url": "git@github.com:vellama/webpack-env-loader.git"
   },
   "keywords": [
     "webpack",
