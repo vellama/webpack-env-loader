@@ -1,6 +1,6 @@
 {
   "name": "webpack-env-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Load your app settings depending on current environment (development, test, production, .....). Can manage multiple apps that use some common settings (backoffice, www, ...)",
   "main": "index.js",
   "scripts": {
